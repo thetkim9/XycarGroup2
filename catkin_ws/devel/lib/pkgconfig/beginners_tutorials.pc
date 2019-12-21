@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel
+
+Name: beginners_tutorials
+Description: Description of beginners_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/catkin_ws/devel/lib 
+Requires: 
